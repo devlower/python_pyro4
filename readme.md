@@ -5,6 +5,8 @@ This project demonstrates the usage of Pyro4 for building a simple game server w
 - [Angelica dos Santos - angelcomp](https://github.com/angelcomp)
 - [Tuanne Assenço - devlower](https://github.com/devlower)
 
+### [Explanatory video of the project](https://drive.google.com/drive/folders/1RW9qfX50mKdTzgkhBLXtiNhPF5HyoIfw?usp=sharing)
+
 ## Introduction to Pyro4
 Pyro4 is a distributed object technology library for Python that enables easy communication between processes. It allows Python objects to be accessed remotely, just as if they were local objects. Pyro4 provides a transparent and powerful way to build distributed systems, enabling seamless interaction between clients and servers.
 
